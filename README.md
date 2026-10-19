@@ -18,4 +18,6 @@ Za vsako kategorijo in državo bom:
 ## 4. Geografska primerjava
 - Naredila bom **grafično primerjavo držav**, da bo razvidno, kje so cene goriv višje in kje nižje.
 
+Videoposnetek: https://drive.google.com/file/d/1_I3Yrp30W6Uy-qD1SMHr0PKFD39GVQF6/view?usp=sharing 
+
 Pripravila: Manja Kralj
